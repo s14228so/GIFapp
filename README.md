@@ -1,2 +1,0 @@
-# GIFapp
-Created with CodeSandbox
